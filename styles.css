@@ -19,6 +19,7 @@
   padding: 15px;
   border-radius: 10px;
   margin: 10px;
+	width:100%;
 }
 
 /* Assign widths for columns */
@@ -36,6 +37,7 @@
 }
 
 .pictorial-news-section {
+	align-content:center;
 text-align:center;
   flex: 1;
 }
